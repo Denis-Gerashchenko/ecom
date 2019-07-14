@@ -1,2 +1,2 @@
 # ecom
-e-commerce website for education.
+e-commerce website for education
